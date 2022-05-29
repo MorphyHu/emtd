@@ -1,5 +1,5 @@
-const CORS_ANYWHERE = 'https://cors-anywhere.vivaf.com/';
-const ENDPOINT = 'https://mac-torrent-download.net/';
+const CORS_ANYWHERE = 'https://cors-anywhere.vivaf.com';
+const ENDPOINT = 'https://mac-torrent-download.net';
 
 function showLoaderForSearchButton() {
     $("#searchButton")
