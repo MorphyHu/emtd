@@ -1,4 +1,4 @@
-const CORS_ANYWHERE = 'https://cors-anywhere.herokuapp.com/';
+const CORS_ANYWHERE = 'https://cors-anywhere.vivaf.com/';
 const ENDPOINT = 'https://mac-torrent-download.net/';
 
 function showLoaderForSearchButton() {
